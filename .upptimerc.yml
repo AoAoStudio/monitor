@@ -7,6 +7,8 @@ sites:
     url: https://www.imxingzhe.com
   - name: xoss
     url: https://www.xoss.co
+  - name: geo
+    url: https://geo.imxingzhe.com/api/v4/health/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
