@@ -4,9 +4,9 @@
     "url": "https://www.imxingzhe.com",
     "icon": "https://favicons.githubusercontent.com/www.imxingzhe.com",
     "slug": "xingzhe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 982,
     "timeMonth": 1016,
     "timeYear": 1016,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-14": 0
+    }
   },
   {
     "name": "xoss",
